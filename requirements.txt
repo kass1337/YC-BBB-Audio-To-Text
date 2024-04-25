@@ -1,0 +1,7 @@
+aiofiles==23.2.1
+boto==2.49.0
+pyTelegramBotAPI==4.17.0
+Requests==2.31.0
+wget==3.2
+speechkit==2.2.2
+aiohttp==3.9.5
