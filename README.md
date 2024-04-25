@@ -1,5 +1,5 @@
 # YC-BBB-Audio-To-Text
-Телеграм бот для расшифровки записи из *BigBlueButton* в текстовый формат с помощью *Yandex Speech Kit* & *Yandex Object Storage*.
+Телеграм-бот для расшифровки записи из *BigBlueButton* в текстовый формат с помощью *Yandex Speech Kit* & *Yandex Object Storage*.
 # Идея
 1. Боту поступает сообщение с ссылкой на запись из *BBB*;
 2. Проверка валидности ссылки;
